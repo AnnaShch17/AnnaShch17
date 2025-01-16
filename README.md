@@ -13,7 +13,7 @@ Check my projects in Portfolio.
 ## Technical Skills
 
 - Spreadsheets: Excel, Google Sheets
-- Languages: SQL, R, DAX?? Python (libraries)
+- Languages: SQL, R, DAX
 - Databases: Microsoft SQL Server, MySQL, PostgreSQL
 - Data Visualization: Power BI, Tableau
 - Data Wrangling: data cleaning, data transformation, data integration
