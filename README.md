@@ -21,8 +21,15 @@ Check my projects in Portfolio.
 
 ## Education
 
+- Certificate in Data Analytics, 2025 (
+- Certificate in Software QA, 2023 (Hitek Computer School)
+- COMP 1630 Relational Database Design and SQL, 2021 (BCIT)
+- M.Sc. in Forestry, 2012 (UBC)
+- M.Sc. in Forest Resources Management, 2001 (Moscow State Forest University)
+
+
 ## Let's connect
 
-My LinkedIn.
+[My LinkedIn](https://www.linkedin.com/in/anna-shcherbinina/).
 
 Check out my projects on GitHub. If you have any questions or are interested in collaborating, don't hesitate to reach out!
