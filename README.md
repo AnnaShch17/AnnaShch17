@@ -5,11 +5,6 @@ I am a dedicated Data Analyst with over 5 years of experience working with data 
 I am passionate about uncovering insights and driving informed decisions, and excited about the potential of data analytics to transform businesses and optimize decision-making processes. Please take a look at my projects to see how I use data to create impactful solutions.
 
 
-## Portfolio
-
-Check my projects in Portfolio.
-
-
 ## Technical Skills
 
 - Spreadsheets: Excel, Google Sheets.
